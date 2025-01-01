@@ -68,4 +68,4 @@ pip install opencv-python mediapipe numpy
 
 Run the script:
 
-python touchless_drawing_board.py
+python virtual_canvass.py
